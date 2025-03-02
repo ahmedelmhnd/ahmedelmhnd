@@ -32,7 +32,7 @@ Here are some notable projects I've worked on:
 
 3. **Barcode Detector**
    - Developed a Python-based barcode detection system using OpenCV, capable of identifying and barcode regions and extracting barcode digits using a self trained OCR model with high accuracy.
-   - [View Repository](https://github.com/ahmedelmhnd/barcode-detector) 
+   - [View Repository](https://github.com/ahmedelmhnd/barcode-detector) [Report](https://github.com/ahmedelmhnd/barcode-detector/blob/main/Barcode-detector-report.pdf) 
 
 ## 🌐 Connect with Me
 
