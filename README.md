@@ -1,6 +1,6 @@
 # Hi there! 👋
 # 💫 About Me:
-🎓 Penultimate-year student at Curtin University (Electrical Eng. & Computer Science Hons)<br>💻 Passionate about web development, machine learning, and embedded systems<br>🚀 Experience in Java, Python, JavaScript, and React<br>🏆 Developed a barcode detection system with deep learning and TensorFlow<br>🔧 Currently focused on learning backend development through NodeJS<br>📫 Always open to collaboration—let’s build something awesome together!
+🎓 Penultimate-year student at Curtin University (Electrical Eng. & Computer Science Hons)<br>💻 Passionate about web development, machine learning, and embedded systems<br>🚀 Experience in Java, Python, JavaScript, and React<br>🏆 Developed a barcode detection system with deep learning and TensorFlow<br>🔧 Currently focused on learning backend development through NodeJS<br>📫 Always open to collaboration—let’s build something awesome together!<br>🌟 Actively looking for a software engineering internship to apply my skills and contribute to exciting projects!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.elmohanned@gmail.com)
