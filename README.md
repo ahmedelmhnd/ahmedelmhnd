@@ -1,14 +1,22 @@
 # Hi there! 👋
+# 💫 About Me:
+🎓 Penultimate-year student at Curtin University (Electrical Eng. & Computer Science Hons)<br>💻 Passionate about web development, machine learning, and embedded systems<br>🚀 Experienced in Java, Python, JavaScript, and React<br>🏆 Developed a barcode detection system with deep learning and TensorFlow<br>🔧 Currently focused on learning backend development through NodeJS<br>📫 Always open to collaboration—let’s build something awesome together!
 
-I'm Ahmed Elmhnd, a passionate Software Engineer actively seeking internship opportunities to further enhance my skills and contribute to innovative projects. 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.elmohanned@gmail.com)
 
-## 🛠️ Tech Stack & Tools
+# 💻 Tech Stack:
+## 🌐 Web Development:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-- **Languages / Frameworks:** Java, Python, C, JavaScript, HTML, CSS, ReactJS
-- **Developer Tools:** Git, VSCode, IntelliJ, Jest, JUnit,, Vitest Agile
-- **Certifications / Courses:** Cisco CCNA: Introduction to Networks, The Odin Project
-- **Frameworks & Libraries:** React, Node.js
-- **Interests:**  Web Development, Machine Learning, Embedded Systems
+## 💻 Software Engineering:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+## 🤖 Machine Learning:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+## 🔧 Embedded Systems:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 🚀 Projects
 
