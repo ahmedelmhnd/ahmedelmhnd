@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ahmed Elmhnd, a passionate Software Engineer actively seeking internship opportunities to further enhance my skills and contribute to innovative projects. I thrive on building solutions that make a difference and enjoy collaborating with others in the tech community.
+I'm Ahmed, a passionate Software Engineer actively seeking internship opportunities to further enhance my skills and contribute to innovative projects. I thrive on building solutions that make a difference and enjoy collaborating with others in the tech community.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -15,15 +15,11 @@ Here are some notable projects I've worked on:
 
 1. **Shopping Cart**
    - Developed a dynamic shopping cart application using JavaScript and React, enabling users to browse products, add items to their cart, and proceed to checkout seamlessly.
-   - [View Repository](https://github.com/ahmedelmhnd/shopping-cart)
+   - [View Repository](https://github.com/ahmedelmhnd/op-shopping-cart) [Live Preview](https://op-shopping-cart.vercel.app/)
 
 2. **Battleship Game**
    - Created an interactive Battleship game using Python and Pygame, offering both single-player and multiplayer modes with an intuitive user interface.
-   - [View Repository](https://github.com/ahmedelmhnd/battleship)
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelmhnd&show_icons=true&theme=radical)
+   - [View Repository](https://github.com/ahmedelmhnd/op-battleship) [Live Preview](https://ahmedelmhnd.github.io/op-battleship/)
 
 ## 🌐 Connect with Me
 
