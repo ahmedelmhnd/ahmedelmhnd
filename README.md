@@ -1,13 +1,14 @@
 # Hi there! 👋
 
-I'm Ahmed, a passionate Software Engineer actively seeking internship opportunities to further enhance my skills and contribute to innovative projects. I thrive on building solutions that make a difference and enjoy collaborating with others in the tech community.
+I'm Ahmed Elmhnd, a passionate Software Engineer actively seeking internship opportunities to further enhance my skills and contribute to innovative projects. 
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks & Libraries:** React, Node.js, TensorFlow, OpenCV
-- **Tools & Platforms:** Docker, GitHub Actions, AWS
-- **Interests:** Machine Learning, Web Development, Embedded Systems
+- **Languages / Frameworks:** Java, Python, C, JavaScript, HTML, CSS, ReactJS
+- **Developer Tools:** Git, VSCode, IntelliJ, Jest, JUnit,, Vitest Agile
+- **Certifications / Courses:** Cisco CCNA: Introduction to Networks, The Odin Project
+- **Frameworks & Libraries:** React, Node.js
+- **Interests:**  Web Development, Machine Learning, Embedded Systems
 
 ## 🚀 Projects
 
@@ -21,17 +22,17 @@ Here are some notable projects I've worked on:
    - Created an interactive Battleship game using Python and Pygame, offering both single-player and multiplayer modes with an intuitive user interface.
    - [View Repository](https://github.com/ahmedelmhnd/op-battleship) [Live Preview](https://ahmedelmhnd.github.io/op-battleship/)
 
+3. **Barcode Detector**
+   - Developed a Python-based barcode detection system using OpenCV, capable of identifying and extracting barcode regions from images with high accuracy.
+   - [View Repository](https://github.com/ahmedelmhnd/barcode-detector)
+
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Ahmed Elmhnd](https://www.linkedin.com/in/ahmedelmhnd)
-- **Email:** ahmed@example.com
-- **Portfolio:** [www.ahmedelmhnd.com](https://www.ahmedelmhnd.com)
-
+- **LinkedIn:** [Ahmed Elmhnd](https://www.linkedin.com/in/ahmedelmohnd)
+- **Email:** ahmed.elmohanned@example.com
 ---
 
 *"Keep learning, keep building!"*
-
-💡 _"Keep learning, keep building!"_
 <!--
 **ahmedelmhnd/ahmedelmhnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
