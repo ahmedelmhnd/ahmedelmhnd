@@ -27,12 +27,12 @@ Here are some notable projects I've worked on:
    - [View Repository](https://github.com/ahmedelmhnd/op-shopping-cart) [Live Preview](https://op-shopping-cart.vercel.app/)
 
 2. **Battleship Game**
-   - Created an interactive Battleship game using Python and Pygame, offering both single-player and multiplayer modes with an intuitive user interface.
+   - Created an interactive Battleship game using vanilla JavaScript, HTML, and CSS.
    - [View Repository](https://github.com/ahmedelmhnd/op-battleship) [Live Preview](https://ahmedelmhnd.github.io/op-battleship/)
 
 3. **Barcode Detector**
-   - Developed a Python-based barcode detection system using OpenCV, capable of identifying and extracting barcode regions from images with high accuracy.
-   - [View Repository](https://github.com/ahmedelmhnd/barcode-detector)
+   - Developed a Python-based barcode detection system using OpenCV, capable of identifying and barcode regions and extracting barcode digits using a self trained OCR model with high accuracy.
+   - [View Repository](https://github.com/ahmedelmhnd/barcode-detector) 
 
 ## 🌐 Connect with Me
 
