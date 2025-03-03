@@ -36,8 +36,7 @@ Here are some notable projects I've worked on:
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Ahmed Elmhnd](https://www.linkedin.com/in/ahmedelmohnd)
-- **Email:** ahmed.elmohanned@example.com
+- **Email:** ahmed.elmohanned@gmail.com
 ---
 
 *"Keep learning, keep building!"*
